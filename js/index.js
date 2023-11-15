@@ -3,7 +3,6 @@ const tableBody = document.getElementById("tableBody");
 
 if(tableBody){
     dados.forEach(({tamanho, diametro}) => {
-        console.log("entrou");
         const tr = document.createElement('tr');
         const tdTamanho = document.createElement('td');
         const tdDiametro = document.createElement('td');
@@ -20,5 +19,4 @@ if(tableBody){
         tableBody.appendChild(tr);
         
     });
-    console.log(tableBody);
 }
