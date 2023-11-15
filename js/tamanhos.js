@@ -1,0 +1,21 @@
+export const dados = [
+    {"tamanho": 14, "diametro": 16.2},
+    {"tamanho": 15, "diametro": 16.5},
+    {"tamanho": 16, "diametro": 16.8},
+    {"tamanho": 17, "diametro": 17.1},
+    {"tamanho": 18, "diametro": 17.4},
+    {"tamanho": 19, "diametro": 17.8},
+    {"tamanho": 20, "diametro": 18.2},
+    {"tamanho": 21, "diametro": 18.4},
+    {"tamanho": 22, "diametro": 18.8},
+    {"tamanho": 23, "diametro": 19.2},
+    {"tamanho": 24, "diametro": 19.5},
+    {"tamanho": 25, "diametro": 19.9},
+    {"tamanho": 26, "diametro": 20.2},
+    {"tamanho": 27, "diametro": 20.5},
+    {"tamanho": 28, "diametro": 20.8},
+    {"tamanho": 29, "diametro": 21.2},
+    {"tamanho": 30, "diametro": 21.5},
+    {"tamanho": 31, "diametro": 21.8},
+    {"tamanho": 32, "diametro": 22.1}
+]
